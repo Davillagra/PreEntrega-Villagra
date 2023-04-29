@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center ;
+    margin: 2rem;
+}
+
+#form{
+    display: block;
+    border: 1px black solid;
+    background-color: cyan;
+    border-radius: 5px;
+    width: 15rem;
+    height: inherit;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.form {
+    display: block;
+    background-color: cyan;
+    border: none;
+    border-bottom: 1px solid black;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 1.22rem;
+    margin-bottom: 1.22rem;
+}
+.submit {
+    margin-left: 35%;
+}
+button {
+    display: inline-block;
+    width: 30%;
+    margin-bottom: 1.22rem;
+    border-radius: 5px;
+    border: 1px black solid;
+}
+.button1 {
+    margin-left: 15%;
+}
+.button2 {
+    margin-left: 10%;
+}
+
+#container {
+    display: block;
+}
+.card {
+    display: inline-block;
+    width: 25%;
+    border: 1px black solid;
+    background-color: cyan;
+    border-radius: 5px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 6%;
+}
+.card h3 {
+    display: block;
+    background-color: cyan;
+    margin-top: 1.22rem;
+    margin-bottom: 1.22rem;
+    text-align: center;
+    font-weight: bolder;
+}
+.card p {
+    display: inline-block;
+    width: 40%;
+    margin-bottom: 1.22rem;
+    border-radius: 5px;
+    margin-left: 10%;
+}
